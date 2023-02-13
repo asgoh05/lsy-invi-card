@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/lsy-invi-card/static/css/main.d0b8cdae.css",
-    "main.js": "/lsy-invi-card/static/js/main.9acc3ea4.js",
+    "main.js": "/lsy-invi-card/static/js/main.16c66323.js",
     "static/js/787.13fa1ff0.chunk.js": "/lsy-invi-card/static/js/787.13fa1ff0.chunk.js",
-    "static/media/lsy_main_image.jpg": "/lsy-invi-card/static/media/lsy_main_image.5882a65f3375b8f2488c.jpg",
+    "static/media/lsy_main_image.png": "/lsy-invi-card/static/media/lsy_main_image.79a0ed40bfe45ec48534.png",
     "static/media/navermap_icon.png": "/lsy-invi-card/static/media/navermap_icon.2a5cd4a5459df43a931c.png",
     "static/media/kakaomap_icon.png": "/lsy-invi-card/static/media/kakaomap_icon.b5281e10c237b9fecb04.png",
     "index.html": "/lsy-invi-card/index.html",
     "main.d0b8cdae.css.map": "/lsy-invi-card/static/css/main.d0b8cdae.css.map",
-    "main.9acc3ea4.js.map": "/lsy-invi-card/static/js/main.9acc3ea4.js.map",
+    "main.16c66323.js.map": "/lsy-invi-card/static/js/main.16c66323.js.map",
     "787.13fa1ff0.chunk.js.map": "/lsy-invi-card/static/js/787.13fa1ff0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0b8cdae.css",
-    "static/js/main.9acc3ea4.js"
+    "static/js/main.16c66323.js"
   ]
 }
