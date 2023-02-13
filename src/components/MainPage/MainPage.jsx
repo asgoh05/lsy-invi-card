@@ -1,13 +1,13 @@
 import React from "react";
 import style from "./MainPage.module.css";
-import mainImage from "../../images/oww_main_image2.png";
+import mainImage from "../../images/lsy_main_image.jpg";
 import { BiMap } from "react-icons/bi";
 
 export default function MainPage() {
   return (
     <div className={style.main_page}>
       <h1 className={style.header} data-aos="fade-up" ata-aos-duration="3000">
-        <span className={style.name_highlight}>원우</span>의 <br />
+        <span className={style.name_highlight}>시윤</span>이의 <br />
         돌잔치에 초대합니다
       </h1>
       <div
