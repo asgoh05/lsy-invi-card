@@ -1,5 +1,5 @@
 {
-  "name": "oww-invi-card",
+  "name": "lsy-invi-card",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -45,5 +45,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://asgoh05.github.io/oww-invi-card"
+  "homepage": "https://asgoh05.github.io/lsy-invi-card"
 }

@@ -37,7 +37,7 @@ const router = createBrowserRouter(
     },
   ],
   {
-    basename: "/oww-invi-card/",
+    basename: "/lsy-invi-card/",
   }
 );
 
