@@ -9,8 +9,8 @@ export default function CalendarPage() {
       <Calendar
         className={style.calendar}
         calendarType={"US"}
-        activeStartDate={new Date(2023, 1, 26)}
-        value={new Date(2023, 1, 26)}
+        activeStartDate={new Date(2023, 2, 18)}
+        value={new Date(2023, 2, 18)}
         nextLabel={null}
         next2Label={null}
         prevLabel={null}
