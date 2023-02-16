@@ -7,7 +7,7 @@
 }
 
 .title {
-  font-family: "KyoboHandwriting2021sjy";
+  font-family: "SUIT-Regular";
   font-size: 2rem;
   letter-spacing: 1rem;
   color: var(--color-text);
@@ -23,16 +23,21 @@
   width: 90vw;
   font-size: 1rem;
   line-height: 3rem;
+  line-height: 120%;
+  font-family: "KyoboHandwriting2021sjy";
 }
 .button {
   background-color: var(--color-highlight-text);
   font-size: 1.2rem;
   color: white;
   margin: 0rem 4rem;
+  box-shadow: 3px 5px 7px 0px rgba(135, 135, 135, 0.75);
+  -webkit-box-shadow: 3px 5px 7px 0px rgba(135, 135, 135, 0.75);
+  -moz-box-shadow: 3px 5px 7px 0px rgba(135, 135, 135, 0.75);
 }
 
 .family {
-  font-family: "NanumBarunpen";
+  font-family: "GangwonEdu_OTFBoldA";
   font-size: 1.4rem;
   width: 70vw;
   display: flex;

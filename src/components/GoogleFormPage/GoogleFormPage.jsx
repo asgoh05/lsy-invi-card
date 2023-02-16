@@ -33,10 +33,11 @@ export default function GoogleFormPage() {
           data-aos="fade-up"
           ata-aos-duration="3000"
         >
-          참석 여부
+          눌러서 참석 여부 알리기
         </button>
         <p className={style.message} data-aos="fade-up" ata-aos-duration="3000">
-          조금 번거로우시더라도 버튼을 눌러서 참석 여부를 꼭 알려주세요.
+          조금 번거로우시더라도
+          <br /> 버튼을 눌러서 참석 여부를 꼭 알려주세요.
         </p>
       </div>
     </div>

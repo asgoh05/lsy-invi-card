@@ -34,12 +34,10 @@ export default function InvitationCard({ images }) {
       <section id="main">
         <MainPage />
         <GoogleFormPage />
+        <MessagePage />
       </section>
       <section id="gallery">
         <GalleryPage images={images} />
-      </section>
-      <section id="message">
-        <MessagePage />
       </section>
       <section id="calendar">
         <CalendarPage />

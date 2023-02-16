@@ -20,7 +20,7 @@ export default function MapPage() {
         }
       ></embed>
       <h3 className={style.location_name}>소베뉴</h3>
-      <div className={style.mapinfo} data-aos="fade-up" ata-aos-duration="3000">
+      <div className={style.mapinfo}>
         <p className={style.address}>
           경기 성남시 분당구 판교백현로 61 <br />
           (우)13539 지번 백현동 500-7
