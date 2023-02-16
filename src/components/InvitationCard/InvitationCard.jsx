@@ -7,6 +7,7 @@ import CalendarPage from "../CalendarPage/CalendarPage";
 import { Link } from "react-scroll";
 import style from "./InvitationCard.module.css";
 import { BiHome, BiPhotoAlbum, BiMapAlt } from "react-icons/bi";
+import GoogleFormPage from "../GoogleFormPage/GoogleFormPage";
 
 export default function InvitationCard({ images }) {
   return (
@@ -41,6 +42,9 @@ export default function InvitationCard({ images }) {
       </section>
       <section id="calendar">
         <CalendarPage />
+      </section>
+      <section id="form">
+        <GoogleFormPage />
       </section>
       <section id="map">
         <MapPage />
