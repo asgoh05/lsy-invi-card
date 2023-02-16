@@ -33,6 +33,7 @@ export default function InvitationCard({ images }) {
       </nav>
       <section id="main">
         <MainPage />
+        <GoogleFormPage />
       </section>
       <section id="gallery">
         <GalleryPage images={images} />
@@ -42,9 +43,6 @@ export default function InvitationCard({ images }) {
       </section>
       <section id="calendar">
         <CalendarPage />
-      </section>
-      <section id="form">
-        <GoogleFormPage />
       </section>
       <section id="map">
         <MapPage />

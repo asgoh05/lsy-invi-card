@@ -15,6 +15,9 @@
 .messagebox {
   align-self: center;
   padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 3rem;
 }
 .message {
   width: 90vw;
@@ -25,5 +28,41 @@
   background-color: var(--color-highlight-text);
   font-size: 1.2rem;
   color: white;
-  padding: 0.5rem 4rem;
+  margin: 0rem 4rem;
+}
+
+.family {
+  font-family: "NanumBarunpen";
+  font-size: 1.4rem;
+  width: 70vw;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 3rem;
+}
+
+.parents {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.dot {
+  align-self: center;
+  color: var(--color-highlight-text);
+  margin: 0 1rem;
+}
+
+.parents_name {
+  background-color: var(--color-mint);
+  padding: 0.4rem;
+  color: var(--color-text);
+  font-weight: bold;
+}
+
+.role {
+  font-size: 0.8rem;
+  padding-right: 1rem;
 }

@@ -20,20 +20,6 @@ export default function MessagePage() {
           함께 축하해 주세요 ❤︎
         </p>
       </div>
-      <div className={style.family} data-aos="fade-up" ata-aos-duration="3000">
-        <h2 className={style.name} data-aos="fade-up" ata-aos-duration="3000">
-          이 시 윤
-        </h2>
-        <div className={style.parents}>
-          <div className={style.parents_name}>
-            <span className={style.role}>아빠</span>이현승
-          </div>
-          <div className={style.dot}>❤︎</div>
-          <div className={style.parents_name}>
-            <span className={style.role}>엄마</span>원 희
-          </div>
-        </div>
-      </div>
     </div>
   );
 }
