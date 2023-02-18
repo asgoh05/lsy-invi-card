@@ -15,6 +15,11 @@
   height: 260px;
 }
 
+.calendar_image {
+  width: 90%;
+  border-radius: 10px;
+}
+
 button {
   font-family: "NanumBarunpen";
   font-size: 1rem;

@@ -1,12 +1,18 @@
 import React from "react";
-import { Calendar } from "react-calendar";
-import "react-calendar/dist/Calendar.css";
+// import { Calendar } from "react-calendar";
+import calendarImage from "../../images/march_calendar.jpeg";
+// import "react-calendar/dist/Calendar.css";
 import style from "./CalendarPage.module.css";
 
 export default function CalendarPage() {
   return (
     <div className={style.container} data-aos="fade-up" ata-aos-duration="3000">
-      <Calendar
+      <img
+        className={style.calendar_image}
+        src={calendarImage}
+        alt="file not found"
+      />
+      {/* <Calendar
         className={style.calendar}
         calendarType={"US"}
         activeStartDate={new Date(2023, 2, 18)}
@@ -18,7 +24,7 @@ export default function CalendarPage() {
         showNeighboringMonth={false}
         view={"month"}
         formatDay={(locale, date) => date.getDate()}
-      />
+      /> */}
     </div>
   );
 }
