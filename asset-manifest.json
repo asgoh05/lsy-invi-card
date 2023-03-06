@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/lsy-invi-card/static/css/main.3854dcde.css",
-    "main.js": "/lsy-invi-card/static/js/main.b21d8475.js",
+    "main.css": "/lsy-invi-card/static/css/main.01b43e87.css",
+    "main.js": "/lsy-invi-card/static/js/main.e060d538.js",
     "static/js/787.13fa1ff0.chunk.js": "/lsy-invi-card/static/js/787.13fa1ff0.chunk.js",
     "static/media/lsy_main_image.png": "/lsy-invi-card/static/media/lsy_main_image.79a0ed40bfe45ec48534.png",
     "static/media/navermap_icon.png": "/lsy-invi-card/static/media/navermap_icon.2a5cd4a5459df43a931c.png",
     "static/media/march_calendar.jpeg": "/lsy-invi-card/static/media/march_calendar.298e788dde2ade8ba621.jpeg",
     "static/media/kakaomap_icon.png": "/lsy-invi-card/static/media/kakaomap_icon.b5281e10c237b9fecb04.png",
     "index.html": "/lsy-invi-card/index.html",
-    "main.3854dcde.css.map": "/lsy-invi-card/static/css/main.3854dcde.css.map",
-    "main.b21d8475.js.map": "/lsy-invi-card/static/js/main.b21d8475.js.map",
+    "main.01b43e87.css.map": "/lsy-invi-card/static/css/main.01b43e87.css.map",
+    "main.e060d538.js.map": "/lsy-invi-card/static/js/main.e060d538.js.map",
     "787.13fa1ff0.chunk.js.map": "/lsy-invi-card/static/js/787.13fa1ff0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3854dcde.css",
-    "static/js/main.b21d8475.js"
+    "static/css/main.01b43e87.css",
+    "static/js/main.e060d538.js"
   ]
 }
