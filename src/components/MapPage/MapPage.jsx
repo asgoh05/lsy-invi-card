@@ -16,24 +16,24 @@ export default function MapPage() {
         loading={"lazy"}
         referrerpolicy={"no-referrer-when-downgrade"}
         src={
-          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.3054377638723!2d127.09021921504988!3d37.38260837983263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b585cbfcc79c9%3A0xded8081c9b0d780e!2z7IaM67Kg64m0!5e0!3m2!1sko!2skr!4v1676296803435!5m2!1sko!2skr"
+          "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.8479913322544!2d127.1079131150648!3d37.39342697983062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b59134e82d649%3A0xada88a791d61b3f0!2sGRAVITY%20Seoul%20Pangyo%2C%20Autograph%20Collection!5e0!3m2!1sko!2skr!4v1678106845648!5m2!1sko!2skr"
         }
       ></embed>
-      <h3 className={style.location_name}>소베뉴</h3>
+      <h3 className={style.location_name}>
+        그래비티 서울 판교 오토그래프 컬렉션 호텔 <br />
+        지하 1층 연회장 (루나+솔)
+      </h3>
       <div className={style.mapinfo}>
-        <p className={style.address}>
-          경기 성남시 분당구 판교백현로 61 <br />
-          (우)13539 지번 백현동 500-7
-        </p>
+        <p className={style.address}>경기 성남시 분당구 판교역로146번길 2</p>
         <img
           className={style.navermap_icon}
-          onClick={() => window.open("https://naver.me/xCrPtwOy", "_blank")}
+          onClick={() => window.open("https://naver.me/xL1EWfQb", "_blank")}
           src={navermap_icon}
           alt="naver map"
         />
         <img
           className={style.kakaomap_icon}
-          onClick={() => window.open("http://kko.to/XktH7W-3uZ", "_blank")}
+          onClick={() => window.open("http://kko.to/sbY5sMLmB4", "_blank")}
           src={kakaomap_icon}
           alt="kakao map"
         />
