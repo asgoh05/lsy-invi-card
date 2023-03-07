@@ -25,7 +25,7 @@ export default function MainPage() {
         <h2 className={style.datetime}>2023.03.18 토요일 오후 12:00</h2>
         <h1 className={style.location}>
           그래비티 서울 판교 <br />
-          오토그래프 컬렉션 1F 연회장
+          오토그래프 컬렉션 지하 1층 연회장
         </h1>
         <button className={style.mapbutton} onClick={openMap}>
           지도 열기
